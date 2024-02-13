@@ -9,8 +9,15 @@ const ValentineCard = () => {
   const [index, setIndex] = useState(0); // Track the current index of the message to display
 
   const message = `dear alex,
+as we celebrate our 1st valentines day as husband and wife, my heart is filled with gratitude and love for all the moments we've shared together. 
 
-With all my love,
+the past year was truly a whirlwind for me (and you), filled with career changes, wedding planning, and everything in between (the 13 gates of hell). but through it all, you were my pillar of strength. you filled our days with laughter, and never hesitated to lend a listening ear, even when it's 1am in the morning and you're trying to fall asleep. 
+
+i feel like the luckiest girl alive to have you by my side. you're the hand i hold, the shoulder i lean on, and the embrace that brings me solace. your love means everything to me, and i can't wait to spend the rest of our lives together.
+
+thank you for choosing to love me. 
+
+with all my love,
 your lovely wife coey`;
 
   useEffect(() => {
